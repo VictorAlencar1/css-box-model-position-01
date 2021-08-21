@@ -1,0 +1,30 @@
+#img1 {
+    border-style: solid;
+    border-color: blue;
+    margin: 5px;
+    padding: 10px;
+}
+#img2 {
+    border-style: groove;
+    border-color: crimson;
+    margin: 5px;
+    padding: 10px;
+}
+#img3 {
+    border-style: double;
+    border-color: cyan;
+    margin: 5px;
+    padding: 10px;
+}
+#img4 {
+    border-style: outset;
+    border-color: darkgreen;
+    margin: 5px;
+    padding: 10px;
+}
+#img5 {
+    border-style: inset;
+    border-color: gold;
+    margin: 5px;
+    padding: 10px;
+}
